@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    color:black
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: brown;
+}
+#banner{
+    padding: 50px 0;
+    text-align: center;
+    font-size: 45px;
+    color: rgb(62, 40, 11);
+    background-image: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section{
+    background-color: rgb(157, 199, 199);
+    height: auto;
+}
+
+footer{
+    background-color: rgb(213, 231, 231); 
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+    color: #391212;
+}
+
+.categories{
+   
+    border: rgb(193, 193, 193) 2px solid;
+}
